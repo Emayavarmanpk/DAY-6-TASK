@@ -73,8 +73,8 @@ class Person{
     this.maritalstatus=maritalstatus;
     this.education=education
 }}
-var result1=new Person("rubi","34","female","yes","SSLC");
-var result2=new Person("raja","24","male","no","BBA");
+var result1=new Person("ravi","44","male","yes","hsC");
+var result2=new Person("Emayavarman","24","male","no","BE");
 console.log(result1.names);
 console.log(result1.age);
 console.log(result1.gender);
